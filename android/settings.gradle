@@ -1,0 +1,3 @@
+rootProject.name = 'shipper_2886'
+
+include ':app'
